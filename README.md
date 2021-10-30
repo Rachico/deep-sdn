@@ -1,0 +1,1 @@
+End-of-Year Project, Intelligent SDN traffic classification using deep learning : classifying SDN network traffic to differentiate between normal and abnormal packets by detecting attacks using deep learning. Mininet - RYU - Tensorflow - Neural Networks - CNN
